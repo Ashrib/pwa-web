@@ -4,6 +4,7 @@
   "background_color": "#000000",
   "short_name": "Chatapp",
   "id": "Chat app PWA",
+  "start_url": "https://pwa-web.vercel.app/",
   "icons": [
     {
       "src": "windows11/SmallTile.scale-100.png",
